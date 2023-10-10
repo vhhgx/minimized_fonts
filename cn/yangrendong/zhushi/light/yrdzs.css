@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "yrdzs-light";
+    src: url("https://cdn.jsdelivr.net/gh/vhhgx/minimized_fonts/cn/yangrendong/zhushi/light/yrdzs.eot"); /* IE9 */
+    src: local("yrdzs-light"), url("https://cdn.jsdelivr.net/gh/vhhgx/minimized_fonts/cn/yangrendong/zhushi/light/yrdzs.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("https://cdn.jsdelivr.net/gh/vhhgx/minimized_fonts/cn/yangrendong/zhushi/light/yrdzs.woff2") format("woff2"), /* chrome 36+, firefox 39+,iOS 10+, Android 67+ */
+    url("https://cdn.jsdelivr.net/gh/vhhgx/minimized_fonts/cn/yangrendong/zhushi/light/yrdzs.woff") format("woff"), /* chrome, firefox */
+    url("https://cdn.jsdelivr.net/gh/vhhgx/minimized_fonts/cn/yangrendong/zhushi/light/yrdzs.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("https://cdn.jsdelivr.net/gh/vhhgx/minimized_fonts/cn/yangrendong/zhushi/light/yrdzs.svg#yrdzs-light") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
